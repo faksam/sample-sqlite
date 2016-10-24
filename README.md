@@ -1,2 +1,2 @@
 # sample-sqlite
-A simple sqlite schema to create database for a typing speed app
+A simple sqlite script to create database for a typing speed app
